@@ -1,6 +1,9 @@
 <Solution>
   <Project Path="../Array/Array.csproj" Id="b8e9ee40-583d-49c2-b209-3ce67ea376d6" />
   <Project Path="../Conditional/Conditional.csproj" Id="dc8fb8ea-8144-44d3-b69b-b6cce51e277a" />
+  <Project Path="../Dictionary/Dictionary.csproj" Id="3a67b06a-69c2-44f3-8ee0-eaf5c83f01b8" />
+  <Project Path="../Exception_Handling/Exception_Handling.csproj" Id="c0d61862-1139-4ea7-91fa-9d202ac56d9a" />
+  <Project Path="../List/List.csproj" Id="712a2410-ff9a-465f-a1b9-6c1346e7ef14" />
   <Project Path="../Loop/Loop.csproj" />
   <Project Path="../Method/Method.csproj" Id="9fc2b962-39d0-4f70-874e-d19ca687cc5a" />
   <Project Path="../Operators/Operators.csproj" Id="0f4d1c0f-112b-4ebd-8207-2ff697db4e7d" />

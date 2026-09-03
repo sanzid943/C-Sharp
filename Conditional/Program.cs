@@ -129,3 +129,45 @@ else
 }
 
 Console.WriteLine();
+
+
+
+
+// Problem_6
+
+Console.Write("enter first number: ");
+float num1 = float.Parse(Console.ReadLine());
+
+Console.Write("enter second number: ");
+float num2 = float.Parse(Console.ReadLine());
+
+Console.Write("enter an operator (+, -, *, /): ");
+char op = Console.ReadLine()[0];
+
+switch (op)
+{
+    case '+':
+        Console.WriteLine(num1 + " + " + num2 + " = " + (num1 + num2));
+        break;
+    case '-':
+        Console.WriteLine(num1 + " - " + num2 + " = " + (num1 - num2));
+        break;
+    case '*':
+        Console.WriteLine(num1 + " * " + num2 + " = " + (num1 * num2));
+        break;
+    case '/':
+        if (num2 != 0)
+        {
+            Console.WriteLine(num1 + " / " + num2 + " = " + (num1 / num2));
+        }
+        else
+        {
+            Console.WriteLine("Division by zero is not allowed.");
+        }
+        break;
+    default:
+        Console.WriteLine("Invalid operator.");
+        break;
+}
+
+Console.WriteLine();
