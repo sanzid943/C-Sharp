@@ -105,3 +105,27 @@ Console.WriteLine();
 
 
 
+// Problem_5
+
+Console.Write("enter your age: ");
+int age = int.Parse(Console.ReadLine());
+
+if (age < 13)
+{
+    Console.WriteLine("you are a child.");
+
+}
+else if (age >= 13 && age < 20)
+{
+    Console.WriteLine("you are a teenager.");
+}
+else if (age >= 20 && age < 60)
+{
+    Console.WriteLine("you are an adult.");
+}
+else
+{
+    Console.WriteLine("you are a senior citizen.");
+}
+
+Console.WriteLine();
