@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="../Array/Array.csproj" Id="b8e9ee40-583d-49c2-b209-3ce67ea376d6" />
+  <Project Path="../Conditional/Conditional.csproj" Id="dc8fb8ea-8144-44d3-b69b-b6cce51e277a" />
   <Project Path="../Loop/Loop.csproj" />
   <Project Path="../Operators/Operators.csproj" Id="0f4d1c0f-112b-4ebd-8207-2ff697db4e7d" />
   <Project Path="../Variables/Variables.csproj" Id="acd88762-c138-442a-87ee-0e9cdd01f673" />
