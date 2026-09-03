@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Loop/Loop.csproj" />
+  <Project Path="C#/Array.csproj" />
+</Solution>
