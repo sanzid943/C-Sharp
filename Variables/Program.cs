@@ -1,18 +1,18 @@
 ﻿// Problem_1
 
-//Console.Write("enter your name: ");
-//string name = Console.ReadLine();
+Console.Write("enter your name: ");
+string name = Console.ReadLine();
 
-//Console.Write("enter your age: ");
-//int age = int.Parse(Console.ReadLine());
+Console.Write("enter your age: ");
+int age = int.Parse(Console.ReadLine());
 
-//Console.Write("eneter your city: ");
-//string city = Console.ReadLine();
+Console.Write("eneter your city: ");
+string city = Console.ReadLine();
 
-//Console.WriteLine();
-//Console.WriteLine("name: " + name);
-//Console.WriteLine("age: " + age);
-//Console.WriteLine("city: " + city);
+Console.WriteLine();
+Console.WriteLine("name: " + name);
+Console.WriteLine("age: " + age);
+Console.WriteLine("city: " + city);
 
 
 
