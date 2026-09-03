@@ -25,3 +25,21 @@ Console.WriteLine();
 Console.WriteLine("you are " + (age >= 18 ? "an adult" : "a minor"));
 
 
+
+// Problem_3
+
+Console.Write("enter first number: ");
+double num1 = double.Parse(Console.ReadLine());
+
+Console.Write("enter second number: ");
+double num2 = double.Parse(Console.ReadLine());
+
+Console.Write("enter third number: ");
+double num3 = double.Parse(Console.ReadLine());
+
+double average = (num1 + num2 + num3) / 3;
+
+Console.WriteLine();
+Console.WriteLine("The average is: " + average);
+
+Console.WriteLine();
