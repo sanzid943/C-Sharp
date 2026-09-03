@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="../Array/Array.csproj" Id="b8e9ee40-583d-49c2-b209-3ce67ea376d6" />
   <Project Path="../Loop/Loop.csproj" />
-  <Project Path="C#/Array.csproj" />
+  <Project Path="../Variables/Variables.csproj" Id="acd88762-c138-442a-87ee-0e9cdd01f673" />
+  <Project Path="C#/hello.csproj" />
 </Solution>
