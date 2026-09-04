@@ -1,12 +1,18 @@
 <Solution>
+  <Project Path="../Abstraction/Abstraction.csproj" Id="d45ee84b-1220-4263-b5a8-bb3b637f9361" />
   <Project Path="../Array/Array.csproj" Id="b8e9ee40-583d-49c2-b209-3ce67ea376d6" />
+  <Project Path="../Class/Class.csproj" Id="8932299e-8c33-41c1-bbd4-779d9a48f672" />
   <Project Path="../Conditional/Conditional.csproj" Id="dc8fb8ea-8144-44d3-b69b-b6cce51e277a" />
   <Project Path="../Dictionary/Dictionary.csproj" Id="3a67b06a-69c2-44f3-8ee0-eaf5c83f01b8" />
+  <Project Path="../Encapsulation/Encapsulation.csproj" Id="a4584824-25ba-47f3-8247-c9b745d1c992" />
   <Project Path="../Exception_Handling/Exception_Handling.csproj" Id="c0d61862-1139-4ea7-91fa-9d202ac56d9a" />
+  <Project Path="../Inheritance/Inheritance.csproj" Id="7e76b320-b26a-4d85-9bed-19d12c5ae11a" />
+  <Project Path="../Interface/Interface.csproj" Id="2dfc2370-77f4-46ff-8e92-532bd0889ff7" />
   <Project Path="../List/List.csproj" Id="712a2410-ff9a-465f-a1b9-6c1346e7ef14" />
   <Project Path="../Loop/Loop.csproj" />
   <Project Path="../Method/Method.csproj" Id="9fc2b962-39d0-4f70-874e-d19ca687cc5a" />
   <Project Path="../Operators/Operators.csproj" Id="0f4d1c0f-112b-4ebd-8207-2ff697db4e7d" />
+  <Project Path="../Polymorphism/Polymorphism.csproj" Id="6773ba72-638d-4b96-9507-1b07a376a414" />
   <Project Path="../Variables/Variables.csproj" Id="acd88762-c138-442a-87ee-0e9cdd01f673" />
   <Project Path="C#/hello.csproj" />
 </Solution>
